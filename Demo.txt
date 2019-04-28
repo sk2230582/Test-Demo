@@ -6,5 +6,6 @@ Functional
 integration
 system
 regression
+Explorartory
 
 These are the testing needed for every application.
