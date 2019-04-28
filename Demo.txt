@@ -7,5 +7,6 @@ integration
 system
 regression
 Explorartory
+End to End 
 
 These are the testing needed for every application.
