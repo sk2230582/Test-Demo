@@ -1,0 +1,10 @@
+The QA Engineer
+
+Smoke
+Adhoc
+Functional
+integration
+system
+regression
+
+These are the testing needed for every application.
