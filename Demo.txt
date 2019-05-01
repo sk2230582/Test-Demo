@@ -11,5 +11,7 @@ Explorartory
 End to End 
 monkey testing
 Duplicate testing
+sanity
+
 
 These are the testing needed for every application.
