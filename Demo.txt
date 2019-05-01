@@ -9,5 +9,6 @@ regression
 Explorartory
 End to End 
 monkey testing
+Duplicate testing
 
 These are the testing needed for every application.
