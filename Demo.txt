@@ -6,6 +6,7 @@ Functional
 integration
 system
 regression
+Test
 Explorartory
 End to End 
 monkey testing
